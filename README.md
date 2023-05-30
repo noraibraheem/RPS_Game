@@ -1,4 +1,4 @@
-# RPS_Game
+# Network Projects
 
 
 Rock-paper-scissors is a game played between two people, where each player simultaneously chooses one option from three available choices: rock, paper, or scissors. The objective is to select the option that beats the opponent:
